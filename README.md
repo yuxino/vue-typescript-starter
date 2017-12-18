@@ -1,4 +1,4 @@
-# {{ your project name }}
+# vue-typescript-starter
 
 > A Vue.js project
 
